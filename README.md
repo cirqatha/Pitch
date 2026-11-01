@@ -12,6 +12,8 @@ could be used for touchless stuff, like skipping songs while cooking with messy 
 
 ## running it
 
+PLEASE START IT ON A PLAIN SURFACE, LIKE NO OBJECTS AROUND AND YOUR LAPTOP PLACED ON A PLAIN SURFACE. KEEP SPEAKER VOLUME HIGH AND MIC VOLUME AS INSTRUCTED IN THE APP.
+
 needs python 3.10 - 3.13 (3.14 might break numpy, didnt test)
 
 windows: just double click run.bat. first time it installs the packages, after that it just starts
